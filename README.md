@@ -12,7 +12,7 @@
  
 🚀 I’m currently make progress to build React.js application called "**Lextagram**"
  
-🎢 I’m currently grow my skills in **Typescript, BaaS, React.js and Next.js**
+🎢 I’m currently grow my skills in **Typescript, Appwrite, React.js and Next.js**
 
 😼 **The failure that comes from trying is better than you never tried.**
 
@@ -30,3 +30,13 @@
   </a>
 </div>
 
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vite,typescript,vercel,appwrite,tailwind,prisma,nextjs,github,git,javascript,vscode,laravel,mysql,php,figma,bootstrap,css,html&perline=7" />
+</div>
+
+<br/>
+<hr/>
