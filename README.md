@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 I’m currently make progress to build React.js application called **Lextagram**
+🔭 I’m currently make progress to build React.js application called "**Lextagram**"
  
 🌱 I’m currently still growing skills on **Typescript, BaaS, and Next.js**
 
