@@ -12,7 +12,7 @@
  
 🔭 I’m currently make progress to build React.js application called "**Lextagram**"
  
-🌱 I’m currently still growing skills on **Typescript, BaaS, and Next.js**
+🌱 I’m currently growing skills on **Typescript, BaaS, React.js and Next.js**
 
 ⚡ The failed that comes from trying still better than you never tried
 
