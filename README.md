@@ -32,10 +32,37 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vite,typescript,vercel,appwrite,tailwind,prisma,nextjs,github,git,javascript,vscode,laravel,mysql,php,figma,bootstrap,css,html&perline=7" />
+    <img src="https://skillicons.dev/icons?i=vite,vercel,appwrite,prisma,vscode,mysql,figma" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Frameworks</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,bootstrap" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Languages</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,php,css,html" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">VCS (Version Control System)</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,git" />
 </div>
 
 <br/>
