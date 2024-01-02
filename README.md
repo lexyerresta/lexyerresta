@@ -14,7 +14,7 @@
  
 🎢 I’m currently grow my skills in **Typescript, BaaS, React.js and Next.js**
 
-😼 **The Failed that comes from trying is better than you never tried.**
+😼 **The failure that comes from trying is better than you never tried.**
 
  </div>
 
