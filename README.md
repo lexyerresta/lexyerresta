@@ -14,6 +14,6 @@
  
 🌱 I’m currently still growing skills on **Typescript, BaaS, and Next.js**
 
-⚡ Fun fact **The failed that comes from trying still better than you never tried**
+⚡ The failed that comes from trying still better than you never tried
 
  </div>
