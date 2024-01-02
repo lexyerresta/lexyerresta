@@ -35,7 +35,7 @@
 <h2 align="center">Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vite,vercel,appwrite,prisma,vscode,mysql,stackoverflow,nodejs,codepen,figma" />
+    <img src="https://skillicons.dev/icons?i=vite,vercel,nodejs,prisma,vscode,appwrite,stackoverflow,discord,codepen,mysql,figma" />
 </div>
 
 <br/>
