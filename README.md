@@ -22,6 +22,9 @@
   <a href="https://linkedin.com/in/lexyerresta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://stackoverflow.com/users/21850134/lexy-erresta">
+    <img src="https://img.shields.io/badge/StackOverFlow-cd7024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
   <a href="mailto:errestlegends@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
