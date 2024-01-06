@@ -62,7 +62,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">Version Control System</h2>
+<h2 align="center">Version Control Systems</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git" />
