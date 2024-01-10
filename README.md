@@ -22,14 +22,11 @@
   <a href="https://linkedin.com/in/lexyerresta">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/21850134/lexy-erresta">
-    <img src="https://img.shields.io/badge/StackOverFlow-cd7024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <a href="https://lexyerresta.github.io/">
+    <img src="https://img.shields.io/badge/Portofolio-cd7024?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="mailto:errestlegends@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://lexanimelist.vercel.app/">
-     <img src="https://img.shields.io/badge/Portofolio-333333?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
