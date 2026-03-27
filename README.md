@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!+👋;+I'm+Lexy+Erresta;" />
 </h1>
 
-<h3 align="center">Web Developer from Bali</h3>
+<h3 align="center">Programmer from Bali</h3>
 
 <br/>
 
 <div align="center">
  
-🚀 I’m currently building a Next.js app called <b>Code Flow</b>
+💻 Working as a Programmer
  
-🎢 I’m currently growing my skills in <b>TypeScript, Appwrite, React.js, and Next.js</b>
+🌱 Growing my expertise in Laravel, React.js, Next.js, and TypeScript
 
-😼 <b>The failure that comes from trying is better than never trying at all.</b>
+⚡ Love building modern web applications and learning new technologies
 
 </div>
 
