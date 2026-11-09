@@ -1,86 +1,52 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lexyerresta.lexyerresta" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!+👋;+I'm+Lexy+Erresta;" />
-</h1>
-
-<h3 align="center">Programmer from Bali</h3>
-
-<br/>
-
 <div align="center">
- 
-💻 Working as a Programmer
- 
-🌱 Growing my expertise in Laravel, React.js, Next.js, and TypeScript
 
-⚡ Love building modern web applications and learning new technologies
+# Lexy Erresta Pangemanan
+
+**Software Engineer · Bali, Indonesia**
+
+I work on web applications and integrations, mostly around retail operations, inventory, and internal tools. Outside work, I build developer tools and open-source projects.
+
+[**Portfolio**](https://lexyerresta.nodezio.com/) · [**LinkedIn**](https://www.linkedin.com/in/lexyerresta/) · [**GitHub Projects**](https://github.com/lexyerresta?tab=repositories)
 
 </div>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/lexyerresta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://lexyerresta.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-cd7024?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="mailto:errestlegends@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
+## What I work on
 
-<hr/>
- 
-<h2 align="center">Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vite,vercel,nodejs,prisma,vscode,appwrite,stackoverflow,discord,codepen,mysql,figma" />
-</div>
+At work, I've contributed to internal systems used in retail operations. Some were existing applications where I developed modules and integrations; others were built from scratch with a team.
 
-<br/>
-<hr/>
+| Area | What I worked on |
+| --- | --- |
+| **Delivery tracking** | Built a Laravel/PostgreSQL application for delivery discrepancies, approvals, appeals, and electronic proof of delivery. |
+| **Retail POS integrations** | Added integrations with CRM, loyalty services, event platforms, and delivery-tracking workflows to an existing POS system. |
+| **Event operations** | Co-built an event application and developed wristband redemption, visitor monitoring, reporting, and audit features. |
+| **Internal supplies** | Developed modules for supply requests, approvals, budgeting integration, and inventory handling. |
+| **Corporate SSO** | Worked with other developers on OAuth 2.0 integration using Laravel Passport. |
 
-<h2 align="center">Frameworks</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,bootstrap" />
-</div>
+The professional systems above are private, so their source code and internal screenshots aren't published. I describe my specific contributions in the [portfolio](https://lexyerresta.nodezio.com/#projects).
 
-<br/>
-<hr/>
+## Open source
 
-<h2 align="center">Languages</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,php,css,html" />
-</div>
+### [NoBypass](https://github.com/lexyerresta/nobypass)
 
-<br/>
-<hr/>
+An architecture-boundary checker for codebases that use defined layers. It helps catch cases where code skips a required layer, such as a controller calling a model directly when the project requires a service and repository.
 
-<h2 align="center">Version Control Systems (VCS)</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git" />
-</div>
+[Repository](https://github.com/lexyerresta/nobypass) · [Website](https://nobypass.nodezio.com/)
 
-<br/>
-<hr/>
+More public work is available in my [repositories](https://github.com/lexyerresta?tab=repositories).
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lexyerresta/lexyerresta/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+## Technologies I use
 
-<hr/>
+**Backend:** PHP, Laravel, JavaScript, TypeScript, Bun, Elysia  
+**Data:** PostgreSQL, MySQL, Drizzle ORM  
+**Frontend:** HTML, CSS, HTMX, React, Next.js  
+**Tools:** Git, Docker
 
-<h2 align="center">Stats</h2>
-<br>
-<div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=lexyerresta&theme=react&border_radius=10" alt="streak stats" />
-</div>
+These are technologies I've used across professional and personal projects, not a claim that every project uses all of them.
 
-<br/><br/>
+## Contact
+
+- **Portfolio:** https://lexyerresta.nodezio.com/
+- **LinkedIn:** https://www.linkedin.com/in/lexyerresta/
+- **Email:** [errestlegends@gmail.com](mailto:errestlegends@gmail.com)
+
+<sub>Professional projects are described without sharing proprietary source code, internal systems, or confidential operational data.</sub>
